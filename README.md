@@ -31,3 +31,6 @@ Input-
 -clinical_data.csv (Each row corresponds to 1 cell in the dataset (must be in the same order as the protein_data.csv), each column corresponds to a metadata variable (must include disease state)
 
 Output - .svg file of a volcano plot comparing 2 disease states
+
+### 20260518_Machine_learning.ipynb
+Preliminary machine learning testing, added during revisions
